@@ -1,0 +1,1 @@
+Messages = Locales[Config.Locale]
