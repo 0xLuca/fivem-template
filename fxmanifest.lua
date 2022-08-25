@@ -16,4 +16,5 @@ server_script 'server/**.lua'
 
 escrow_ignore {
     'config/**.lua',
+    'locales/**.lua'
 }
